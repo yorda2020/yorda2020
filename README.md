@@ -1,16 +1,25 @@
 ### Hi there 👋
 
-<!--
-**yorda2020/yorda2020** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Yordanos, Data enthusiast with a passion for turning raw data into valuable insights. Passionate in data analysis, visualization, and machine learning.
+## Skills
 
-Here are some ideas to get you started:
+- Python
+- SQL/MySQL/ProsgreSQL
+- Microsoft Power bi
+- Tableau
+- Excel
+- R programing
+- Git
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+
+- [GitHub repo][(https://github.com/yorda2020/)]
+
+### Project 2: Portfolio projects
+
+- [GitHub repo][(https://github.com/yorda2020/PortofolioProjects)]
+
+
+## Contact
+
+Feel free to reach out to me via email at betizerie@gmail.com or connect with me on (https://www.linkedin.com/in/yordanos-z-8aab4a1ba/)
