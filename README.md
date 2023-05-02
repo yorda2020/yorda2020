@@ -15,11 +15,6 @@ I'm Yordanos, Data enthusiast with a passion for turning raw data into valuable 
 
 - [GitHub repo][(https://github.com/yorda2020/)]
 
-### Project 2: Portfolio projects
-
-- [GitHub repo][(https://github.com/yorda2020/PortofolioProjects)]
-
-
 ## Contact
 
 Feel free to reach out to me via email at betizerie@gmail.com or connect with me on (https://www.linkedin.com/in/yordanos-z-8aab4a1ba/)
