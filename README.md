@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Yordanos, Data enthusiast with a passion for turning raw data into valuable insights. Passionate in data analysis, visualization, and machine learning.
+I'm Yordanos, Data enthusiast with a passion for turning raw data into valuable insights. Passionate  working in data analysis, visualization, and machine learning.
 ## Skills
 
 - Python
