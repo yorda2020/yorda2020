@@ -8,7 +8,6 @@ I'm Yordanos, Data enthusiast with a passion for turning raw data into valuable 
 - Microsoft Power bi
 - Tableau
 - Excel
-- R programing
 - Git
 
 ## Projects
