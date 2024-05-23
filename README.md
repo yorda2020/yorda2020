@@ -1,9 +1,5 @@
 
 # Hi there, I'm Yordanos👋
-
-!Data Enthusiast
-
-
 ---
 
 ## About Me
@@ -46,7 +42,9 @@ I am a **data enthusiast** with a passion for turning raw data into valuable ins
 
 ## GitHub Stats
 
-![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?yorda2020=yorda2020&show_icons=true&theme=radical)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yorda2020&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yorda2020&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?yorda2020=yorda2020layout=compact&theme=radical)
 
