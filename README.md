@@ -1,47 +1,49 @@
-<h5 align="left">Hi 👋!
-I'm Yordanos, Data enthusiast with a passion for turning raw data into valuable insights. Passionate  working in data analysis, visualization, and machine learning.</h5>
 
-###
+# Hi there, I'm [Your Name] 👋
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yorda2020&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yorda2020&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+![Data Enthusiast](https://your-image-link.com)
 
-###
+---
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+## About Me
 
-###
+I am a **data enthusiast** with a passion for turning raw data into valuable insights. I love working in data analysis, visualization, and machine learning. My skill set includes:
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/SQL/SQL-original.svg" height="30" alt="SQL logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/Microsoft Power bi/Microsoft Power bi-original.svg" height="30" alt="Microsoft Power bi logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  /> 
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/Tableau/Tableau-original.svg" height="30" alt="Tableau logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/Excel/Excel-original.svg" height="30" alt=" Excel logo"  />
-</div>
+- **Python** 🐍
+- **SQL** 🗄️
+- **Microsoft Power BI** 📊
+- **Tableau** 📈
+- **CSS & HTML** 🌐
+- **Advanced Excel** 📑
 
-###
+---
 
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-</div>
+## Projects
 
-###
+### [Data Analysis Project](https://github.com/yourusername/data-analysis-project)
+![Data Analysis](https://your-image-link.com/data-analysis.png)
+> Analyzing datasets to uncover insights.
 
-<br clear="both">
+### [Machine Learning Model](https://github.com/yourusername/machine-learning-model)
+![Machine Learning](https://your-image-link.com/machine-learning.png)
+> Predictive model using scikit-learn.
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+### [Data Visualization Dashboard](https://github.com/yourusername/data-visualization-dashboard)
+![Data Visualization](https://your-image-link.com/data-visualization.png)
+> Interactive dashboard for data visualization.
 
-###
+---
+
+## Get in Touch
+
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/yourprofile)
+- [![Email](https://img.shields.io/badge/Email-Contact%20Me-green)](mailto:youremail@example.com)
+
+---
+
+## GitHub Stats
+
+![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+
