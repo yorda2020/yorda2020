@@ -1,4 +1,5 @@
-<h5 align="left">Hi 👋! I'm Yordanos, Data enthusiast with a passion for turning raw data into valuable insights. Passionate  working in data analysis, visualization, and machine learning.</h5>
+<h5 align="left">Hi 👋!
+I'm Yordanos, Data enthusiast with a passion for turning raw data into valuable insights. Passionate  working in data analysis, visualization, and machine learning.</h5>
 
 ###
 
@@ -14,19 +15,19 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="SQL logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/SQL/SQL-original.svg" height="30" alt="SQL logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="Microsoft Power bi logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/Microsoft Power bi/Microsoft Power bi-original.svg" height="30" alt="Microsoft Power bi logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html/html-original.svg" height="30" alt="html logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css logo"  /> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css/css-original.svg" height="30" alt="css logo"  /> 
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Tableau logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/Tableau/Tableau-original.svg" height="30" alt="Tableau logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt=" Excel logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/Excel/Excel-original.svg" height="30" alt=" Excel logo"  />
 </div>
 
 ###
