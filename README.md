@@ -1,7 +1,8 @@
 
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm [Yordanos] 👋
 
-![Data Enthusiast](https://your-image-link.com)
+![Data Enthusiast]
+///https://your-image-link.com)
 
 ---
 
@@ -9,12 +10,13 @@
 
 I am a **data enthusiast** with a passion for turning raw data into valuable insights. I love working in data analysis, visualization, and machine learning. My skill set includes:
 
-- **Python** 🐍
-- **SQL** 🗄️
-- **Microsoft Power BI** 📊
-- **Tableau** 📈
-- **CSS & HTML** 🌐
-- **Advanced Excel** 📑
+
+- **[Python](https://www.python.org/)** 🐍
+- **[SQL](https://www.w3schools.com/sql/)** 🗄️
+- **[Microsoft Power BI](https://powerbi.microsoft.com/)** 📊
+- **[Tableau](https://www.tableau.com/)** 📈
+- **[CSS](https://developer.mozilla.org/en-US/docs/Web/CSS) & [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)** 🌐
+- **[Advanced Excel](https://support.microsoft.com/en-us/excel)** 📑
 
 ---
 
