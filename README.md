@@ -11,12 +11,13 @@
 I am a **data enthusiast** with a passion for turning raw data into valuable insights. I love working in data analysis, visualization, and machine learning. My skill set includes:
 
 
-- **[Python](https://www.python.org/)** 🐍
-- **[SQL](https://www.w3schools.com/sql/)** 🗄️
-- **[Microsoft Power BI](https://powerbi.microsoft.com/)** 📊
-- **[Tableau](https://www.tableau.com/)** 📈
-- **[CSS](https://developer.mozilla.org/en-US/docs/Web/CSS) & [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)** 🌐
-- **[Advanced Excel](https://support.microsoft.com/en-us/excel)** 📑
+- ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+- ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+- ![Microsoft Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
+- ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+- ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+- ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+- ![Advanced Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
 ---
 
