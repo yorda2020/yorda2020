@@ -37,7 +37,6 @@ I am a **data enthusiast** with a passion for turning raw data into valuable ins
 - [![Email](https://img.shields.io/badge/Email-Contact%20Me-green)](mailto:yorda.zerie@example.com)
 
 ---
-
 ## GitHub Stats
 
 <div align="center">
