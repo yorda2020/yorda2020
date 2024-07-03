@@ -1,6 +1,5 @@
 
 ### Hi there, I'm Yordanos👋
----
 
 ## About Me
 
