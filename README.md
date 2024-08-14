@@ -4,7 +4,7 @@
 
 ## About Me
 
-I am a **data enthusiast** with a passion for turning raw data into valuable insights. I love working in data analysis, security analysis, visualization, and machine learning. My skill set includes:
+I am a **data enthusiast** with a passion for turning raw data into valuable insights. I love working in data analysis and visualization, security analysis, and machine learning. My skill set includes:
 
 <div align="center">
  
