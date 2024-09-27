@@ -23,7 +23,7 @@ I am a **data enthusiast** with a passion for turning raw data into valuable ins
 
 ## Projects
 
-### [Data Analysis Project]((https://github.com/yorda2020/PortofolioProjects)
+### [Data Analysis Project](https://github.com/yorda2020/PortfolioProjects)
 > Analyzing datasets to uncover insights.
 ### [Machine Learning Model](https://github.com/yourusername/machine-learning-model)
 ### [SQL](https://github.com/yourusername/data-visualization-dashboard)
