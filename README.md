@@ -19,7 +19,7 @@ I thrive on transforming raw data into actionable insights that drive decision-m
  ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
  ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
  ![Advanced Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
- ![Splunk](https://img.shields.io/badge/Splunk-3776AB?style=for-the-badge&logo=splunk&logoColor=white)
+ ![Splunk](https://img.shields.io/badge/Splunk-E34F26?style=for-the-badge&logo=splunk&logoColor=white)
  
 
  
