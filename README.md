@@ -4,7 +4,7 @@
 
 ## About Me
 
-🚀 Passionate Data Enthusiast | Insight-Driven Analyst | AI & Security Advocate
+🚀 Passionate Data Enthusiast | Insight-Driven Analyst | Security Analyst
 
 I thrive on transforming raw data into actionable insights that drive decision-making and innovation. With a strong passion for data analysis, visualization, security analysis, and machine learning, I enjoy uncovering hidden patterns and crafting compelling narratives through data. My skillset includes:
 
