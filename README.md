@@ -21,6 +21,7 @@ I thrive on transforming raw data into actionable insights that drive decision-m
  ![Advanced Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
  ![Splunk](https://img.shields.io/badge/Splunk-E34F26?style=for-the-badge&logo=splunk&logoColor=white)
  ![Suricata](https://img.shields.io/badge/Suricata-IDS-red?logo=suricata&logoColor=white)
+ ![Wireshark](https://img.shields.io/badge/Wireshark-Network%20Analysis-blue?logo=wireshark&logoColor=white)
  
 
  
