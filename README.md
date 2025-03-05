@@ -41,7 +41,6 @@ I thrive on transforming raw data into actionable insights that drive decision-m
 
 ## Get in Touch
 
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/yordanos-z-8aab4a1ba/)
 - [![Email](https://img.shields.io/badge/Email-Contact%20Me-green)](mailto:yorda.zerie@example.com)
 
 ---
