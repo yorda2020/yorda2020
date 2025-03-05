@@ -19,9 +19,9 @@ I thrive on transforming raw data into actionable insights that drive decision-m
  ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
  ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
  ![Advanced Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
- ![Suricata](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Suricata_IDS.svg/120px-Suricata_IDS.svg.png)
-![Wireshark](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Wireshark_Logo.svg/150px-Wireshark_Logo.svg.png)
-![Splunk](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Splunk_Logo.svg/200px-Splunk_Logo.svg.png)
+![Suricata](assets/suricata_logo.png)
+![Wireshark](assets/wireshark_logo.png)
+![Splunk](assets/splunk_logo.png)
 
  
  </div>
