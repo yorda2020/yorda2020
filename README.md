@@ -31,7 +31,7 @@ I thrive on transforming raw data into actionable insights that drive informed d
 
 ## Projects
 
-### [Data Analysis Project](https://github.com/yorda2020/PortfolioProjects)
+### [Cybersecurity Projects](https://github.com/yorda2020/Portfolio-Activity_CybersecurityProjects)
 ### [Data Analysis Project](https://github.com/yorda2020/PortfolioProjects)
 ### [Machine Learning Model](https://github.com/yourusername/machine-learning-model)
 ### [SQL](https://github.com/yourusername/data-visualization-dashboard)
