@@ -4,9 +4,9 @@
 
 ## About Me
 
-🚀 Passionate Data Enthusiast | Insight-Driven Analyst | Security Analyst
+🚀 Passionate Data Enthusiast | Insight-Driven Analyst | CyberSecurity Analyst | CyberSecurity and Compliance Engineer
 
-I thrive on transforming raw data into actionable insights that drive decision-making and innovation. With a strong passion for data analysis, visualization, security analysis, and machine learning, I enjoy uncovering hidden patterns and crafting compelling narratives through data. My skillset includes:
+I thrive on transforming raw data into actionable insights that drive informed decision-making and innovation. With a strong passion for both data and cybersecurity, I enjoy uncovering hidden patterns and crafting meaningful narratives through data that support strategic goals and enhance digital security.. My skillset includes:
 
 
 
