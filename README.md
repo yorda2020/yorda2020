@@ -29,8 +29,8 @@ Genuinely energized by clean, analyzed,well-governed data and the impact it has 
 
 ---
 
-## Projects
-
+## Projects  
+### [Cloud deployment Project](https://github.com/yorda2020/azure_resume)
 ### [Cybersecurity Projects](https://github.com/yorda2020/Portfolio-Activity_CybersecurityProjects)
 ### [Data Analysis Project](https://github.com/yorda2020/PortfolioProjects)
 ### [Machine Learning Model](https://github.com/yourusername/machine-learning-model)
