@@ -4,7 +4,7 @@
  
 ## About Me
 
-🚀 Data Enthusiast
+🚀 Data Specialist
 
 Data professional with hands-on experience across the full cycle — defining collection standards, cleaning and validating datasets, and turning the results into dashboards and reports that people can actually use to make decisions. Currently expanding into cloud through active Microsoft Azure deployment work and recent training in cloud and cybersecurity fundamentals. My skillset includes:
 
